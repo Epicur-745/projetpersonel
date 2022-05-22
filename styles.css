@@ -1,0 +1,56 @@
+body {
+ padding-top: 10px;
+ 
+    }
+	
+	
+  .container{
+	  padding-right:10px;
+	  padding-left:10px;
+	  margin-right:auto;
+	  margin-left:auto;
+  }
+   p {
+	margin-bottom:50px;
+   font-family: Arial, sans-serif;
+   font-weight:bold;
+   font-size:120%;
+   width:350px;
+   text-align:justify;
+   padding:12px;
+   border:1pxsolidblack;
+   
+   }
+   
+  a {
+	color:green;
+  }
+  legend
+  { 
+      font-family:Lucida Calligraphy;
+      color:rgb(52, 100, 204);
+  }
+  label
+{ 
+font-family:Lucida Calligraphy;
+font-weight:bold;
+font-size:120%;
+color:rgb(67, 69, 233);
+}
+#main-image
+{
+  height: 500px;
+  background-color:aqua;
+  background-position: center;
+}
+.loli
+{
+  color:rgb(221, 12, 40);
+}
+.forme
+{
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  min-height: auto;
+}
