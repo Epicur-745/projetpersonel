@@ -40,7 +40,7 @@ color:rgb(67, 69, 233);
 #main-image
 {
   height: 500px;
-  background-color:aqua;
+  background-color:url("articlee.jpg");
   background-position: center;
 }
 .loli
