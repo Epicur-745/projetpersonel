@@ -46,9 +46,10 @@ color:rgb(34, 69, 100);
 }
 #main-image
 {
-  height: 580px;
-  background-color:url( "articlee.jpg");
+  height: 560px;
   background-position: center;
+  background:url("articlee.jpg") ;
+  background-size: cover;
 }
 .loli
 {
