@@ -21,26 +21,33 @@ body {
    border:1pxsolidblack;
    
    }
-   
-  a {
-	color:green;
-  }
+  a,li
+{
+    text-decoration:none ;
+    font-family: serif;
+    display: block;
+    list-style: none;
+    color: rgb(34, 64, 82);
+    font-weight: bold;
+    margin-bottom: 20px;
+} 
+  
   legend
   { 
-      font-family:Lucida Calligraphy;
+      font-family:Arial black;
       color:rgb(52, 100, 204);
   }
   label
 { 
-font-family:Lucida Calligraphy;
+font-family:Arial black;
 font-weight:bold;
 font-size:120%;
-color:rgb(67, 69, 233);
+color:rgb(34, 69, 100);
 }
 #main-image
 {
-  height: 500px;
-  background-color:url("articlee.jpg");
+  height: 580px;
+  background-color:url( "articlee.jpg");
   background-position: center;
 }
 .loli
